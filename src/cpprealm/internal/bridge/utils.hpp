@@ -19,6 +19,7 @@
 #ifndef CPPREALM_BRIDGE_UTILS_HPP
 #define CPPREALM_BRIDGE_UTILS_HPP
 
+#include <cstdint>
 #include <functional>
 #include <memory>
 #include <string_view>
